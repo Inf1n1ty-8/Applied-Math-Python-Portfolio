@@ -147,3 +147,4 @@ Skills demonstrated:
 
 ```bash
 git clone https://github.com/Inf1n1ty-8/Applied-Math-Python-Portfolio.git
+cd Applied-Math-Python-Portfolio
