@@ -147,4 +147,33 @@ Skills demonstrated:
 
 ```bash
 git clone https://github.com/Inf1n1ty-8/Applied-Math-Python-Portfolio.git
+```
+
+2. Move into the project folder:
+
+```bash
 cd Applied-Math-Python-Portfolio
+```
+
+3. Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Start Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+5. Run the notebooks in order:
+
+```text
+01_root_finding.ipynb
+02_numerical_integration.ipynb
+03_ode_solvers.ipynb
+04_probability_simulation.ipynb
+05_german_logistics_optimizer.ipynb
+06_network_logic_engine.ipynb
+```****
